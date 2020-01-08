@@ -1,0 +1,2 @@
+# MathCollatz
+Collatz conjecture
